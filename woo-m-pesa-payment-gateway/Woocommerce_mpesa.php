@@ -3,11 +3,11 @@
 // In order to prevent direct access to the plugin
  defined('ABSPATH') or die("No access please!");
 // Plugin header- notifies wordpress of the existence of the plugin
-/* Plugin Name: WooCommerce M-PESA Payment Gateway 
+/* Plugin Name: M-Pesa(Kenya) Checkout for WooCommerce
 
 * Plugin URI: https://woompesa.demkitech.com/
 
-* Description: M-PESA Payment Gateway for woocommerce. 
+* Description: M-Pesa(Kenya) Checkout for WooCommerce
 
 * Version: 1.0.0 
 
@@ -15,11 +15,15 @@
 
 * Author URI: https://woompesa.demkitech.com/
 
-* Licence: GPL2 
+* Licence: GNU General Public License v2.0 
+
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+* Stable tag: 1.0
 
 * WC requires at least: 2.2
 
-* WC tested up to: 6.5
+* WC tested up to: 6.8.2
 
 */
 
